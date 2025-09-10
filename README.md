@@ -12,7 +12,7 @@ The purpose is to share simple coding examples that help practice the basics of 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/beginner-projects.git
+   git clone [https://github.com/barkinadiguzel/Beginner-Projects]
    ```
 ## Feedback
 
