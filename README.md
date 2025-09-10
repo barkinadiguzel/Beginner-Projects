@@ -1,2 +1,19 @@
-# Beginner-Projects
-Collection of beginner-friendly Python projects to practice coding skills. Includes number guessing games, basic data analysis, small ML exercises, and more. Great for learning, experimenting, and improving Python knowledge step by step.
+# Beginner Projects
+
+This repository is dedicated to beginner-level Python projects.  
+The purpose is to share simple coding examples that help practice the basics of programming and build a strong foundation.
+
+## Projects
+- 🎯 Entry-level exercises  
+- 🎲 Fun small games  
+- 📊 Simple data tasks  
+- 🛠️ Easy utilities for learning  
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/beginner-projects.git
+   ```
+## Feedback
+
+For feedback or questions, contact: [barkin.adiguzel@gmail.com](mailto:barkin.adiguzel@gmail.com)
