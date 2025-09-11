@@ -4,7 +4,7 @@ print("Welcome to Rock - Paper - Scissors!")
 
 # Possible choices
 choices = ["rock", "paper", "scissors"]
-
+ 
 while True:
     # Ask user for input
     user_choice = input("Choose Rock, Paper, or Scissors (or type 'q' to quit): ").lower()
