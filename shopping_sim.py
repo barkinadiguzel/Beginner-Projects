@@ -1,5 +1,5 @@
 import datetime
-
+ 
 # Product catalog
 products = {
     "Bread": 2.0,
