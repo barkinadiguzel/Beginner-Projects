@@ -1,5 +1,5 @@
 import math
-
+ 
 def calculator():
     print("🔢 Python Scientific Calculator")
     print("Type an expression (e.g., 2+3, sqrt(16), log(100), sin(3.14))")
