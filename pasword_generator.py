@@ -16,3 +16,4 @@ for i in range(length):
     password += all_chars[seed]
 
 print("Generated password:", password)
+ 
